@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidProject\deepak sachan\ViewPagerWithTabs\viewPagerWithTabs\build\intermediates\exploded-aar\ViewPagerWithTabs\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e440d428f92451871202f3884249fa6b25033f3f">
+        <dex dex="F:\AndroidProject\deepak sachan\ViewPagerWithTabs\viewPagerWithTabs\build\intermediates\pre-dexed\debug\classes-41360748b172fd79eb0c8fc2de157866265982ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\QServer\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\AndroidProject\deepak sachan\ViewPagerWithTabs\viewPagerWithTabs\build\intermediates\pre-dexed\debug\support-v4-18.0.0-e2a0c884b6ad58aae0a30aa37ae59120881eddfc.jar" />
+    </item>
+
+</items>
